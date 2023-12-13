@@ -158,11 +158,8 @@ int main()
     free(h_primes);
 }
 
-/*
- *
     //primeCount(h_primes);
- *   //primeSieve(h_primes);
-    //
+    //primeSieve(h_primes);
     //primeSieveOptimized(h_primes);
     //primeSieveParallel<<<length/2, 1, 0, stream>>>(d_primes);
 
